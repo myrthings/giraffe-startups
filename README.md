@@ -12,7 +12,7 @@
 
   Yeah, Product-Market Fit is hard. This is a completely different approach that instead of user data, asks directly to the clients about how they feel about the product. Then NLP is used to improve the product focusing on fans' opinions.
   
-  - They also built [an interactive tool](https://coda.io/@rahulvohra/superhuman-product-market-fit-engine) so you can try it with your own data.
+  - You can try their [interactive tool](https://coda.io/@rahulvohra/superhuman-product-market-fit-engine) with your own data.
 - **[The red flags and magic numbers that investors look for in your startup’s metrics](https://andrewchen.com/investor-metrics-deck/) by *Andrew Chen* (date?)**
 
   An essential article to understand growth. How to build acquisition and engagement loops. The basis of [Reforge](https://www.reforge.com/).
