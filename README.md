@@ -11,9 +11,15 @@
 - **[How Superhuman Built an Engine to Find Product-Market Fit](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit) by *First Round* (2018)**
 
   Yeah, Product-Market Fit is hard. This is a completely different approach that instead of user data, asks directly to the clients about how they feel about the product. Then NLP is used to improve the product focusing on fans' opinions.
-They also built [an interactive tool](https://coda.io/@rahulvohra/superhuman-product-market-fit-engine) so you can try it with your own data.
+  
+  - They also built [an interactive tool](https://coda.io/@rahulvohra/superhuman-product-market-fit-engine) so you can try it with your own data.
 - **[The red flags and magic numbers that investors look for in your startup’s metrics](https://andrewchen.com/investor-metrics-deck/) by *Andrew Chen* (date?)**
 
   An essential article to understand growth. How to build acquisition and engagement loops. The basis of [Reforge](https://www.reforge.com/).
 - **[How to De-Risk a Startup](https://www.codingvc.com/how-to-de-risk-a-startup/) by *Leo Polovets* at *Coding VC* (Oct, 2016)**
+
   A framework to see startups as a list of risks and then asses them individually. This one is difficult to apply because it uses qualitative information to asses a quantitative approximation. However, it's great to create discusions around your business and find weaknesses.
+  
+- **[How to design a dashboard](https://dataschool.com/how-to-design-a-dashboard/) by *Matt David* at *Chartio Data School* (2019)**
+
+  An introduction on how to choose metrics, how to measure them, what kinds of charts can be used and what matters on building your own dashboard.
