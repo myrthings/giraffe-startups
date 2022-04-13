@@ -120,11 +120,14 @@ class GrowthAccounting(object):
     --------------------
     (future link to a jupyter notebook implementation)
     
+    Credits for this code
+    ---------------------
+    myrthings (2022) Giraffe Startups [https://github.com/myrthings/giraffe-startups]
+
     References
     ----------
     Article with the framework:
         https://tribecap.co/a-quantitative-approach-to-product-market-fit/
-    
     """
     
     def __init__(self,period='M',simple=True):

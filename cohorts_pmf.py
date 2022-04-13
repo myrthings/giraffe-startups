@@ -100,6 +100,10 @@ class Cohorts(object):
     --------------------
     (future link to a jupyter notebook implementation)
     
+    Credits for this code
+    ---------------------
+    myrthings (2022) Giraffe Startups [https://github.com/myrthings/giraffe-startups]
+
     References
     ----------
     Article with the framework:
